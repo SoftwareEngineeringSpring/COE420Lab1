@@ -16,7 +16,8 @@ public class Calculations {
 		int quotient = x/y;
 		System.out.print("The quotient is=" + quotient);
 		//member_D add the feature of multiplying x by y and print the result
-		
+		int mult = x*y;
+		System.out.println("The multiplication is= " + mult);
 		
 		
 		//Exercise 5: Spot the issues to be reported
