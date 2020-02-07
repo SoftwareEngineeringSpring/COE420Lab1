@@ -10,7 +10,8 @@ public class Calculations {
 		System.out.println("The sum is= "+ sum);
 		
 		//member_B add the feature of subtracting x from y and print the result
-		
+		int subt = x-y;
+		System.out.println("The subt is= "+ subt);
 		//member_C add the feature of dividing x by y and print the result
 		int quotient = x/y;
 		System.out.print("The quotient is=" + quotient);
